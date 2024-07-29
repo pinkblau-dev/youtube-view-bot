@@ -3,7 +3,7 @@
 
 ## Features
 - Proxy Usage.
-- Multi Live View Sending.
+- Multi Video View Sending.
 - Multi Thread View Sending.
 
 
