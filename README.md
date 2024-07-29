@@ -9,7 +9,7 @@
 
 
 ## Legal
-This tool is for educational purposes only. Use of such tools may violate Instagram's Policies, so use it responsibly.
+This tool is for educational purposes only.
 
 
 **Other Tools:** telegram: https://t.me/toolsocial
